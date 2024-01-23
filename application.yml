@@ -1,0 +1,7 @@
+#management:
+#  otlp:
+#    tracing:
+#      endpoint: http://localhost:4317
+#  tracing:
+#    sampling:
+#      probability: 1.0
